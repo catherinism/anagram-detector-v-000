@@ -10,12 +10,12 @@ class Anagram
 binding.pry
   end
 
-  def match(array)
-    anagram = []
-    anagram.match
-    end
+  #def match(array)
+    #anagram = []
+    #anagram.match
+    #end
 
-  end
+  #end
 
 end
 
