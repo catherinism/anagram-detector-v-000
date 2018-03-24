@@ -6,6 +6,8 @@ class Anagram
 
   def initialize(word)
     @words=word
+
+binding.pry
   end
 
   def match(array)
