@@ -10,7 +10,7 @@ class Anagram
 
   def match(array)
     anagram = []
-    anagram.detect do |word| word
+    anagram.match
     end
 
   end
