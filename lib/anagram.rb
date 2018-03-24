@@ -11,8 +11,7 @@ class Anagram
   end
 
   def match(array)
-    anagram = []
-    anagram.match
+    array.select  
     end
 
   end
