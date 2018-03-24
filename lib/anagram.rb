@@ -11,7 +11,7 @@ class Anagram
   end
 
   def self.match(array)
-    array.select do 
+    array.select do |word| word.split("").sort == @words.split("").sort
     end
 
   end
